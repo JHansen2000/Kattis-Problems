@@ -2,7 +2,7 @@
 
 | Problem | Difficulty | Completed | Language |
 | ----------- | ----------- | ----------- | ----------- |
-| Quadrant Selection | 1.3 | [X] | C++ |
+| Quadrant Selection | 1.3 | [ ] | C++ |
 | Quality-Adjusted Life-Year | 1.3 | [X] | C++ |
 | R2 | 1.3 | [X] | C++ |
 | Stuck In A Time Loop | 1.3 | [X] | C++ |
