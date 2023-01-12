@@ -26,3 +26,4 @@
 | Triangle Area | 1.4 | <ul><li>[x] </li></ul> | C++ |
 | Two-sum | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Which is Greater? | 1.4 | <ul><li>[x] </li></ul> | C++ |
+
