@@ -3,6 +3,7 @@
 | Problem | Difficulty | Completed | Language |
 | ----------- | ----------- | ----------- | ----------- |
 | Autori | 1.3 | <ul><li>[x] </li></ul> | C++ |
+| Bela | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Betting | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Bijele | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Cold-puter Science | 1.3 | <ul><li>[x] </li></ul> | C++ |
@@ -13,8 +14,11 @@
 | FYI | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Greetings! | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Jack-O'-Lantern Juxtaposition | 1.3 | <ul><li>[x] </li></ul> | C++ |
+| Janitor Troubles | 1.5 | <ul><li>[x] </li></ul> | C++ |
 | Jumbo Javelin | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Knight Packing | 1.3 | <ul><li>[x] </li></ul> | C++ |
+| Knot Knowledge | 1.4 | <ul><li>[x] </li></ul> | C++ |
+| Magic Trick | 1.4 | <ul><li>[x] </li></ul> | C++ |
 | N-sum | 1.3 | <ul><li>[x] </li></ul> | C++ |
 | Nasty Hacks | 1.4 | <ul><li>[x] </li></ul> | C++ |
 | Odd Echo | 1.3 - 1.4 | <ul><li>[x] </li></ul> | C++ |
