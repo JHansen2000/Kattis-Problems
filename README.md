@@ -15,7 +15,7 @@
 | [FYI](https://open.kattis.com/problems/fyi) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/FYI/fyi.cpp) |
 | [Finding An A](https://open.kattis.com/problems/findingana) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Finding%20An%20A/findingana.cpp) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Greetings!/greetings2.cpp) |
-| [Jack-](https://open.kattis.com/problems/jackolanternjuxtaposition) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Jack-/jackolanternjuxtaposition.cpp) |
+| [Jack-O&#039;-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Jack-O&#039;-Lantern%20Juxtaposition/jackolanternjuxtaposition.cpp) |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | 1.5 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Janitor%20Troubles/janitortroubles.cpp) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Jumbo%20Javelin/jumbojavelin.cpp) |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Knight%20Packing/knightpacking.cpp) |
@@ -42,7 +42,7 @@
 | [Tarifa](https://open.kattis.com/problems/tarifa) | 1.5 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Tarifa/tarifa.cpp) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Triangle%20Area/triarea.cpp) |
 | [Two-sum](https://open.kattis.com/problems/twosum) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Two-sum/twosum.cpp) |
-| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Which%20is%20Greater?/whichisgreater.cpp) |
+| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Which%20is%20Greater%3F/whichisgreater.cpp) |
 </details>
 
 <details><summary>Sorted by Difficulty</summary>
@@ -59,7 +59,7 @@
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Echo%20Echo%20Echo/echoechoecho.cpp) |
 | [Autori](https://open.kattis.com/problems/autori) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Autori/autori.cpp) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Greetings!/greetings2.cpp) |
-| [Jack-](https://open.kattis.com/problems/jackolanternjuxtaposition) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Jack-/jackolanternjuxtaposition.cpp) |
+| [Jack-O&#039;-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Jack-O&#039;-Lantern%20Juxtaposition/jackolanternjuxtaposition.cpp) |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Odd%20Echo/oddecho.cpp) |
 | [FYI](https://open.kattis.com/problems/fyi) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/FYI/fyi.cpp) |
 | [N-sum](https://open.kattis.com/problems/nsum) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/N-sum/nsum.cpp) |
@@ -73,7 +73,7 @@
 | [Bijele](https://open.kattis.com/problems/bijele) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Bijele/bijele.cpp) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Shattered%20Cake/shatteredcake.cpp) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Cold-puter%20Science/cold.cpp) |
-| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Which%20is%20Greater?/whichisgreater.cpp) |
+| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Which%20is%20Greater%3F/whichisgreater.cpp) |
 | [Pet](https://open.kattis.com/problems/pet) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Pet/pet.cpp) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Quality-Adjusted%20Life-Year/qaly.cpp) |
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Knot%20Knowledge/knotknowledge.cpp) |
