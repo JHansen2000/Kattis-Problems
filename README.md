@@ -79,7 +79,6 @@
 | [FYI](https://open.kattis.com/problems/fyi) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/FYI/fyi.cpp) |
 | [Metronome](https://open.kattis.com/problems/metronome) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Metronome/metronome.cpp) |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels) | 1.3 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Count%20the%20Vowels/countthevowels.cpp) |
-| [Stopwatch](https://open.kattis.com/problems/stopwatch) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Stopwatch/stopwatch.cpp) |
 | [Bela](https://open.kattis.com/problems/bela) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Bela/bela.cpp) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Take%20Two%20Stones/twostones.cpp) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Stuck%20In%20A%20Time%20Loop/timeloop.cpp) |
@@ -91,6 +90,7 @@
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Shattered%20Cake/shatteredcake.cpp) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Cold-puter%20Science/cold.cpp) |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Which%20is%20Greater%3F/whichisgreater.cpp) |
+| [Stopwatch](https://open.kattis.com/problems/stopwatch) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Stopwatch/stopwatch.cpp) |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Magic%20Trick/magictrick.cpp) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Triangle%20Area/triarea.cpp) |
 | [Oddities](https://open.kattis.com/problems/oddities) | 1.4 | [C++](https://github.com/JHansen2000/Kattis-Problems/blob/main/C%2B%2B/Oddities/oddities.cpp) |
