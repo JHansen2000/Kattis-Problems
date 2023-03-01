@@ -105,4 +105,3 @@ def reader(current_dir, verbosity):
 if __name__ == "__main__":
     problems = reader(os.getcwd(), verbosity="full")
     print_readme(problems)
-    print(problems)
