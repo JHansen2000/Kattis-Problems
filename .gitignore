@@ -3,3 +3,4 @@
 run.o
 run
 .DS_Store
+__pycache__
